@@ -1,0 +1,61 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "peacock.color": "yellow",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#ffff33",
+        "activityBar.background": "#ffff33",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#00bfbf",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#ffff33",
+        "statusBar.background": "#ffff00",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#cccc00",
+        "statusBarItem.remoteBackground": "#ffff00",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#ffff00",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#ffff0099",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "SynthWave '84",
+    "synthwave84.style": "neon",
+    "synthwave84.brightness": 0.95,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.renderWhitespace": "all",
+    "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.cursorBlinking": "expand",
+    "editor.links": true,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "punctuation.definition.string.begin",
+                    "punctuation.definition.string.end"
+                ],
+                "settings": {
+                    "foreground": "#ff0000"
+                }
+            }
+        ]
+    },
+    "editor.fontLigatures": true,
+    "editor.colorDecorators": true,
+    "editor.rulers": [
+        100
+    ],
+    "terminal.integrated.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
+    "terminal.integrated.fontSize": 14,
+    "breadcrumbs.enabled": true,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+}
